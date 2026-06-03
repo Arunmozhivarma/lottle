@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { X, Copy, Download, Check, Package, Code2, BookOpen } from "lucide-react";
+import { X, Copy, Download, Check, Package, Code as Code2, BookOpen } from "lucide-react";
 import { useToast } from "@/components/ui/toast-provider";
 import { LoginMeta } from "@/lib/logins";
 

@@ -3,7 +3,7 @@
 import dynamic from "next/dynamic";
 import Link from "next/link";
 import { useState } from "react";
-import { ArrowLeft, Code2, ChevronLeft, ChevronRight } from "lucide-react";
+import { ArrowLeft, Code as Code2, ChevronLeft, ChevronRight } from "lucide-react";
 import { LoginMeta, logins } from "@/lib/logins";
 import { loginSourceCode } from "@/lib/source-code";
 import { CodeDrawer } from "@/components/ui/code-drawer";

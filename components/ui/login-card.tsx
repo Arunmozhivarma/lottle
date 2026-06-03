@@ -4,7 +4,7 @@ import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { motion } from "framer-motion";
-import { Eye, Code2, ExternalLink } from "lucide-react";
+import { Eye, Code as Code2, ExternalLink } from "lucide-react";
 import { LoginMeta } from "@/lib/logins";
 import { CodeDrawer } from "@/components/ui/code-drawer";
 
