@@ -1,1 +1,1 @@
-self.__REACT_LOADABLE_MANIFEST="{}"
+self.__REACT_LOADABLE_MANIFEST="{\"app/page.tsx -> @/components/ui/particle-background\":{\"id\":\"app/page.tsx -> @/components/ui/particle-background\",\"files\":[\"static/chunks/_app-pages-browser_components_ui_particle-background_tsx.js\"]}}"
