@@ -4,5 +4,65 @@
     "files": [
       "static/chunks/_app-pages-browser_components_ui_particle-background_tsx.js"
     ]
+  },
+  "app/previews/[id]/preview-client.tsx -> @/components/logins/3d-card-login": {
+    "id": "app/previews/[id]/preview-client.tsx -> @/components/logins/3d-card-login",
+    "files": [
+      "static/chunks/_app-pages-browser_components_logins_3d-card-login_tsx.js"
+    ]
+  },
+  "app/previews/[id]/preview-client.tsx -> @/components/logins/aurora-login": {
+    "id": "app/previews/[id]/preview-client.tsx -> @/components/logins/aurora-login",
+    "files": [
+      "static/chunks/_app-pages-browser_components_logins_aurora-login_tsx.js"
+    ]
+  },
+  "app/previews/[id]/preview-client.tsx -> @/components/logins/axolotl-login": {
+    "id": "app/previews/[id]/preview-client.tsx -> @/components/logins/axolotl-login",
+    "files": [
+      "static/chunks/_app-pages-browser_components_logins_axolotl-login_tsx.js"
+    ]
+  },
+  "app/previews/[id]/preview-client.tsx -> @/components/logins/cyberpunk-login": {
+    "id": "app/previews/[id]/preview-client.tsx -> @/components/logins/cyberpunk-login",
+    "files": [
+      "static/chunks/_app-pages-browser_components_logins_cyberpunk-login_tsx.js"
+    ]
+  },
+  "app/previews/[id]/preview-client.tsx -> @/components/logins/leaf-login": {
+    "id": "app/previews/[id]/preview-client.tsx -> @/components/logins/leaf-login",
+    "files": [
+      "static/chunks/_app-pages-browser_components_logins_leaf-login_tsx.js"
+    ]
+  },
+  "app/previews/[id]/preview-client.tsx -> @/components/logins/minimalist-typography-login": {
+    "id": "app/previews/[id]/preview-client.tsx -> @/components/logins/minimalist-typography-login",
+    "files": [
+      "static/chunks/_app-pages-browser_components_logins_minimalist-typography-login_tsx.js"
+    ]
+  },
+  "app/previews/[id]/preview-client.tsx -> @/components/logins/professional-login": {
+    "id": "app/previews/[id]/preview-client.tsx -> @/components/logins/professional-login",
+    "files": [
+      "static/chunks/_app-pages-browser_components_logins_professional-login_tsx.js"
+    ]
+  },
+  "app/previews/[id]/preview-client.tsx -> @/components/logins/retro-arcade-login": {
+    "id": "app/previews/[id]/preview-client.tsx -> @/components/logins/retro-arcade-login",
+    "files": [
+      "static/chunks/_app-pages-browser_components_logins_retro-arcade-login_tsx.js"
+    ]
+  },
+  "app/previews/[id]/preview-client.tsx -> @/components/logins/skater-login": {
+    "id": "app/previews/[id]/preview-client.tsx -> @/components/logins/skater-login",
+    "files": [
+      "static/chunks/_app-pages-browser_components_logins_skater-login_tsx.js"
+    ]
+  },
+  "app/previews/[id]/preview-client.tsx -> @/components/logins/water-ripple-login": {
+    "id": "app/previews/[id]/preview-client.tsx -> @/components/logins/water-ripple-login",
+    "files": [
+      "static/chunks/_app-pages-browser_components_logins_water-ripple-login_tsx.js"
+    ]
   }
 }
